@@ -1,0 +1,12 @@
+알고리즘 url
+[1단계]
+https://docs.google.com/spreadsheets/d/1AOWLj51lskrNSezfAAmiFsEM2gtLIn0kb5td2R27Hc0/edit?usp=sharing
+[2단계]
+https://docs.google.com/spreadsheets/d/16vgUon20gVpCLfRKEBLeAUevfUJrhacvYHTpsAXRwDQ/edit?usp=sharing
+[3단계]
+https://docs.google.com/spreadsheets/d/16vwjRwnE7gmcGqFqPtM7f5I053ChMizhCYjUdwazX48/edit?usp=sharing
+[playdata Github]
+https://github.com/encore-playdata/qna.git
+
+노트북 관리 대장
+https://docs.google.com/spreadsheets/d/16e4ATjPB2G3L-Mv3wlZ3aJjlmAlkcGVG9691fOGbKBQ/edit#gid=142290288
