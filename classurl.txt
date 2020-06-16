@@ -10,3 +10,6 @@ https://github.com/encore-playdata/qna.git
 
 노트북 관리 대장
 https://docs.google.com/spreadsheets/d/16e4ATjPB2G3L-Mv3wlZ3aJjlmAlkcGVG9691fOGbKBQ/edit#gid=142290288
+
+핵준특
+https://www.notion.so/playdatacademy/1fd70f1399d44fee8c7d3e1e6deb03ee
