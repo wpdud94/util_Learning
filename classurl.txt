@@ -13,3 +13,7 @@ https://docs.google.com/spreadsheets/d/16e4ATjPB2G3L-Mv3wlZ3aJjlmAlkcGVG9691fOGb
 
 핵준특
 https://www.notion.so/playdatacademy/1fd70f1399d44fee8c7d3e1e6deb03ee
+
+:baby::skin-tone-2: 신입 개발자 전공 지식 & 기술 면접 백과사전 :book:
+https://github.com/gyoogle/tech-interview-for-developer
+https://gyoogle.dev/blog/
